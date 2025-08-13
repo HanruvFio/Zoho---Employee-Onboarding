@@ -1,6 +1,8 @@
-# Zoho---Basic-Employee-Role-Onboarding
+# Zoho---Basic-Employee-Role: Onboarding
 
-## Follow email link and setup with the prompts
+## Settings > Users > Add User
+
+## Follow email link on user side and setup with the prompts
 
 ## Assign Apps to the user and give them roles
 
